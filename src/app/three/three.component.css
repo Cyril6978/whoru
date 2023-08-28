@@ -1,0 +1,32 @@
+* {
+  font-family: "Rubik";
+  color: aliceblue;
+}
+
+.question {
+  display: flex;
+  height: 25vh;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  padding-top: 2%;
+}
+
+
+.pictures {
+  display: flex;
+  justify-content: center;
+  gap: 4%;
+  padding: 7%;
+}
+
+.film {  
+  height: 35vh;
+} 
+
+
+
