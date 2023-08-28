@@ -16,7 +16,6 @@
   padding-top: 2%;
 }
 
-
 .pictures {
   display: flex;
   justify-content: center;
@@ -24,9 +23,6 @@
   padding: 7%;
 }
 
-.film {  
+.film {
   height: 35vh;
-} 
-
-
-
+}

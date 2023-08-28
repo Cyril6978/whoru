@@ -8,5 +8,4 @@ import { Router } from '@angular/router';
 })
 export class ThreeComponent {
   constructor(private router: Router) { }
-
 }
